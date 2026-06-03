@@ -1,17 +1,7 @@
 # DSA Journey
 
-## Arrays
+## Array
 
-| Problem | Difficulty |
-|----------|-----------|
-| Two Sum | Easy |
-
-## Strings
-
-| Problem | Difficulty |
-|----------|-----------|
-
-## Linked List
-
-| Problem | Difficulty |
-|----------|-----------|
+| Problem Name | Difficulty |
+|-------------|------------|
+| [0001-two-sum](./Arrays/0001-two-sum) | Easy ||
