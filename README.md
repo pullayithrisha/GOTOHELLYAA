@@ -8,3 +8,4 @@
 | [0075-sort-colors](0075-sort-colors) | Easy ||
 | [0169-majority-element](0169-majority-element)| Easy ||
 |[0053-maximum-subaraay](0053-maximum-subarray) | Medium||
+|[0121-best-time-to-buy-and-sell-stock](0121-best-time-to-buy-and-sell-stock) | Easy||
