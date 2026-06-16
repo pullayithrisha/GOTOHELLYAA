@@ -5,15 +5,8 @@ class Solution {
         int l=0;
         for(int r=0;r<nums.length;r++)
         {
-            sum+=nums[r];
-            if(sum>res)
-            {
-                res=sum;
-            }
-            if(sum<0)
-            {
-                sum=0;
-            }
+            sum=Math.max(nums[r],sum+nums[r]);
+            res=Math.max(res,sum);
         }
         return res;
     }
