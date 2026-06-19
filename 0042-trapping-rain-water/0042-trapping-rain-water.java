@@ -28,7 +28,7 @@ class Solution {
         {
             leftmax=Math.max(leftmax,height[l]);
             rightmax=Math.max(rightmax,height[r]);
-            if(leftmax<=rightmax)
+            if(leftmax<rightmax)
             {
                 res+=leftmax-height[l];
                 l++;
