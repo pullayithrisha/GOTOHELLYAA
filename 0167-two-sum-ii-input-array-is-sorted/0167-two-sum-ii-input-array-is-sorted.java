@@ -16,8 +16,7 @@ class Solution {
                         res[1]=m+1;
                         return res;
                     }
-                    if(numbers[m]>=numbers[l]) //check left half sorted or not
-                    {
+                    
                         if(remaining<numbers[m] && remaining>=numbers[l])
                         {
                             r=m-1;
@@ -26,18 +25,8 @@ class Solution {
                         {
                             l=m+1;
                         }
-                    }
-                    else //right half is sorted or not 
-                    {
-                       if(remaining>numbers[m] && remaining<=numbers[r])
-                        {
-                            l=m+1;
-                        }
-                        else
-                        {
-                           r=m-1;
-                        } 
-                    }
+                    
+                    
                 }
             
         }
