@@ -9,7 +9,10 @@ class Solution {
                 res+=1;
                 coins=coins-i;
                 System.out.println("res:"+res+" coins:"+coins);
-
+            }
+            else
+            {
+                break;
             }
         }
         return res;
