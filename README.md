@@ -35,4 +35,8 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0876-middle-of-the-linked-list) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
