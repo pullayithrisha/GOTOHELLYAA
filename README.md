@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0020-valid-parentheses) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
@@ -39,4 +40,9 @@
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
