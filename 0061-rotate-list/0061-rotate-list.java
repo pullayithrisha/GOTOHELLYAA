@@ -22,16 +22,6 @@ class Solution {
         }
         return prev;
     }
-    public ListNode getk(ListNode temp,int k)
-    {
-        k--;
-        while(temp!=null&&k>0)
-        {
-            k--;
-            temp=temp.next;
-        }
-        return temp;
-    }
     public ListNode rotateRight(ListNode head, int k) {
         if (head == null || head.next == null || k == 0) return head;
             int n = 0;
@@ -47,7 +37,6 @@ class Solution {
         for (int i = 1; i < k; i++) {
             kthnode = kthnode.next;
         }
-        ListNode prevlast=kthnode;
         ListNode secondpart=kthnode.next;
         kthnode.next=null;
         ListNode part1=reverse(head);
@@ -59,7 +48,5 @@ class Solution {
         }
         temp.next=part2;
         return part1;
-
-
     }
 }
