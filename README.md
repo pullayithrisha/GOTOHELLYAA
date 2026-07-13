@@ -16,12 +16,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0678-valid-parenthesis-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0678-valid-parenthesis-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
 |  |
@@ -73,4 +75,12 @@
 | [0141-linked-list-cycle](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0160-intersection-of-two-linked-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
