@@ -27,9 +27,10 @@ class Solution {
             }
             else
             {
-                prev.next=second;
                 temp.next=second.next;
                 second.next=temp;
+                                prev.next=second;
+
                 prev=temp;
                 temp=temp.next;
             }
