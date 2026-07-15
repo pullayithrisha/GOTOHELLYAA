@@ -87,4 +87,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0678-valid-parenthesis-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
