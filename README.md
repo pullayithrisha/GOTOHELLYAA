@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0029-divide-two-integers) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -93,4 +94,8 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0029-divide-two-integers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Simulation
+|  |
+| ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 <!---LeetCode Topics End-->
