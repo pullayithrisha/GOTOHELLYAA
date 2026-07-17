@@ -98,4 +98,8 @@
 |  |
 | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
