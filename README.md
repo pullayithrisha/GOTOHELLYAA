@@ -17,6 +17,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0678-valid-parenthesis-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -24,6 +25,7 @@
 | [0020-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0678-valid-parenthesis-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
 |  |
@@ -105,4 +107,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0181-employees-earning-more-than-their-managers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
