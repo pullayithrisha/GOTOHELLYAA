@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0029-divide-two-integers) |
+| [0412-fizz-buzz](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0412-fizz-buzz) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -105,6 +107,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0412-fizz-buzz) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Database
 |  |
