@@ -79,6 +79,7 @@
 | [0029-divide-two-integers](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0029-divide-two-integers) |
 | [0412-fizz-buzz](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0412-fizz-buzz) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2525-categorize-box-according-to-criteria](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/2525-categorize-box-according-to-criteria) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
