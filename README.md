@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0032-longest-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -95,6 +97,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
@@ -119,6 +122,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
