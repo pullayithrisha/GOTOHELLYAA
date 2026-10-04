@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0032-longest-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0678-valid-parenthesis-string) |
@@ -97,6 +98,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -131,4 +134,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
