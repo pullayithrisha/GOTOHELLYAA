@@ -75,6 +75,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0234-palindrome-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0029-divide-two-integers) |
 | [0412-fizz-buzz](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0412-fizz-buzz) |
+| [0633-sum-of-square-numbers](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0633-sum-of-square-numbers) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/2525-categorize-box-according-to-criteria) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0022-generate-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/pullayithrisha/GOTOHELLYAA/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
